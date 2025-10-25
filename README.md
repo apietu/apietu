@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey! I'm Selase Apietu</h1>
 
 <p align="center">
-Exploring new technologies and developing software solutions.<br>
-🎓 BSc. Information Technology at University of Cape Coast, Ghana.<br>
-💼 Still learning and exploring opportunities.<br>
-🌱 Learning more about AI.<br>
-🎮 Gaming when free!
+I'm a passionate <strong>Software Developer</strong> with a love for building practical solutions that solve real-world problems.<br>
+🎓 Currently studying <strong>BSc. Information Technology</strong> at the University of Cape Coast, Ghana.<br>
+💻 Learning <strong>C#</strong> and <strong>Python</strong> to strengthen my skills in both backend and full-stack development.<br>
+🚀 Focused on mastering modern frameworks and cloud-based technologies to become a professional Software Engineer.<br>
+🎮 When I'm not coding, you'll probably find me gaming or exploring new tech trends.
 </p>
 
 ---
@@ -17,6 +17,7 @@ Exploring new technologies and developing software solutions.<br>
   <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=239120" />
   <img src="https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django&logoColor=092E20" />
   <img src="https://img.shields.io/badge/-FastAPI-333333?style=for-the-badge&logo=FastAPI&logoColor=009688" />
   <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -53,5 +54,3 @@ Exploring new technologies and developing software solutions.<br>
 </p>
 
 ---
-
-<p align="center">👤 <strong>Author:</strong> Selase Apietu</p>
