@@ -1,56 +1,110 @@
-<h1 align="center">👋 Hey! I'm Selase Apietu</h1>
+# 👋 Hi, I'm Selase Apietu
 
 <p align="center">
-I'm a passionate <strong>Software Developer</strong> with a love for building practical solutions that solve real-world problems.<br>
-🎓 Currently studying <strong>BSc. Information Technology</strong> at the University of Cape Coast, Ghana.<br>
-💻 Learning <strong>C#</strong> and <strong>Python</strong> to strengthen my skills in both backend and full-stack development.<br>
-🚀 Focused on mastering modern frameworks and cloud-based technologies to become a professional Software Engineer.<br>
-🎮 When I'm not coding, you'll probably find me gaming or exploring new tech trends.
+  <strong>Aspiring Software Engineer | AI Enthusiast | BSc. Information Technology Graduate</strong>
+</p>
+
+<p align="center">
+  🎓 BSc. Information Technology Graduate, University of Cape Coast, Ghana <br>
+  💜 Passionate about Software Engineering, Artificial Intelligence, and building impactful solutions <br>
+  🌱 Currently learning C# and the .NET ecosystem
 </p>
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=239120" />
-  <img src="https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django&logoColor=092E20" />
-  <img src="https://img.shields.io/badge/-FastAPI-333333?style=for-the-badge&logo=FastAPI&logoColor=009688" />
-  <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+I'm an aspiring **Software Engineer** and **AI enthusiast** with a **Bachelor of Science in Information Technology** from the **University of Cape Coast, Ghana**.
+
+I'm passionate about designing and building software that solves real-world problems. My current focus is mastering **C#** and the **.NET ecosystem**, while developing practical projects that strengthen my backend development skills.
+
+I'm committed to continuous learning and enjoy exploring emerging technologies, particularly **Artificial Intelligence**, modern software engineering practices, and cloud technologies. My goal is to build scalable, reliable applications and grow into a professional software engineer who creates meaningful solutions.
+
+---
+
+## 🎯 Current Focus
+
+* Mastering C# and the .NET ecosystem
+* Building backend applications with ASP.NET Core
+* Learning software architecture and best practices
+* Exploring Artificial Intelligence and its practical applications
+* Building a strong portfolio through real-world projects
+* Preparing for Software Engineering opportunities
+
+---
+
+## 🌱 Currently Learning
+
+* C#
+* .NET
+* ASP.NET Core
+* Git & GitHub
+* Object-Oriented Programming (OOP)
+* REST APIs
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Language
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ---
 
-<h2 align="center">⚡ GitHub Stats</h2>
+## 🎯 Goals
+
+* Master C# and the .NET ecosystem
+* Build real-world backend applications
+* Explore Artificial Intelligence and Machine Learning
+* Contribute to open-source projects
+* Continuously improve my software engineering skills
+* Build a portfolio that showcases my growth as a developer
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=apietu&show_icons=true&theme=dark&hide_border=true" />
-  <img width="400" src="https://streak-stats.demolab.com?user=apietu&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apietu&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=apietu&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Activity Graph</h2>
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apietu&theme=react-dark&area=true&radius=16" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apietu&theme=github-compact&area=true&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/selase-apietu-244080226/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Selase%20Apietu-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:selasekodzoapietu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-selasekodzoapietu@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/selase-apietu-244080226">
+    <img src="https://img.shields.io/badge/LinkedIn-Selase_Apietu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:selasekodzoapietu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  <strong>"Learning today, building for tomorrow."</strong>
+</p>
