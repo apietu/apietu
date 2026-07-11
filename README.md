@@ -22,25 +22,14 @@ I'm committed to continuous learning and enjoy exploring emerging technologies, 
 
 ---
 
-## 🎯 Current Focus
-
-* Mastering C# and the .NET ecosystem
-* Building backend applications with ASP.NET Core
-* Learning software architecture and best practices
-* Exploring Artificial Intelligence and its practical applications
-* Building a strong portfolio through real-world projects
-* Preparing for Software Engineering opportunities
-
----
-
 ## 🌱 Currently Learning
 
-* C#
-* .NET
-* ASP.NET Core
-* Git & GitHub
-* Object-Oriented Programming (OOP)
-* REST APIs
+- C#
+- .NET
+- ASP.NET Core
+- Git & GitHub
+- Object-Oriented Programming (OOP)
+- REST APIs
 
 ---
 
@@ -48,13 +37,13 @@ I'm committed to continuous learning and enjoy exploring emerging technologies, 
 
 ### 💻 Language
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
 ### 🛠️ Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
@@ -65,12 +54,12 @@ I'm committed to continuous learning and enjoy exploring emerging technologies, 
 
 ## 🎯 Goals
 
-* Master C# and the .NET ecosystem
-* Build real-world backend applications
-* Explore Artificial Intelligence and Machine Learning
-* Contribute to open-source projects
-* Continuously improve my software engineering skills
-* Build a portfolio that showcases my growth as a developer
+- Master C# and the .NET ecosystem
+- Build real-world backend applications
+- Explore Artificial Intelligence and Machine Learning
+- Contribute to open-source projects
+- Continuously improve my software engineering skills
+- Build a portfolio that showcases my growth as a developer
 
 ---
 
@@ -98,7 +87,7 @@ I'm committed to continuous learning and enjoy exploring emerging technologies, 
     <img src="https://img.shields.io/badge/LinkedIn-Selase_Apietu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:selasekodzoapietu@gmail.com">
+  <a href="mailto:selaseeapietu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
